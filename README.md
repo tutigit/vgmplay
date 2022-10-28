@@ -1,3 +1,5 @@
+# vgmplay
+Erstes Progrämmchen für den NKC (Abspielen einer VGM-Datei auf SOUND3)
 
 Das ist ein erster Programmierversuch in C für den NDR-Klein-Computer (NKC).
 
